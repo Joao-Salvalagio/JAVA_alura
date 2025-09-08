@@ -1,4 +1,4 @@
-package JAVA_criando_sua_primeira_aplicacao;
+package JAVA_criando_sua_primeira_aplicacao.aula01;
 
 public class Aula01 {
     public static void main(String[] args) {
