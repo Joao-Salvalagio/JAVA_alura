@@ -1,6 +1,6 @@
 package JAVA_criando_sua_primeira_aplicacao.aula02_construindo_catalogo_de_filmes;
 
-public class Main {
+public class Aula02 {
     public static void main(String[] args) {
         System.out.println("Esse é o Screen Match");
         System.out.println("Filme: Top Gun: Maverick");
